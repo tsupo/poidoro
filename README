@@ -1,0 +1,11 @@
+﻿
+'poidoro' is a tool for 'COLORS'. 'COLORS' is a SNS.
+'poidoro' crawles diaries in 'COLORS', and posts a comment to these diaries took part in 'Point Dorobo' (or 'Point Dropping') as known as POIDORO (ポイドロ).
+
+xmlRPC libraries are necessary for building this application.
+
+  xmlRPC: 
+    http://github.com/tsupo/xmlRPC/tree
+
+  COLORS:
+    http://clrs.jp/
