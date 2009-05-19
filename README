@@ -3,9 +3,14 @@
 'poidoro' crawles diaries in 'COLORS', and posts a comment to these diaries took part in 'Point Dorobo' (or 'Point Dropping') as known as POIDORO (ポイドロ).
 
 xmlRPC libraries are necessary for building this application.
+colors.c is also necessary for building this application, and this C source code is included 'BloGolEe'.
 
   xmlRPC: 
     http://github.com/tsupo/xmlRPC/tree
+
+  BloGolEe:
+    http://watcher.moe-nifty.com/memo/2007/03/blogolee.html
+    http://github.com/tsupo/blogolee/tree
 
   COLORS:
     http://clrs.jp/
